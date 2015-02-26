@@ -1,0 +1,20 @@
+{
+  "author": "",
+  "dependencies": {
+    "compression": "^1.2.2",
+    "express": "^4.10.5",
+    "geobuf": "^1.0.1",
+    "memory-cache": "0.0.5",
+    "pretty-data": "^0.40.0",
+    "request": "^2.51.0",
+    "underscore": "^1.7.0",
+  },
+  "description": "A simple geobuf proxy.",
+  "engines": {
+    "node": "0.10.x"
+  },
+  "license": "MIT",
+  "main": "server.js",
+  "name": "npmap-geobuf",
+  "version": "0.0.0"
+}
